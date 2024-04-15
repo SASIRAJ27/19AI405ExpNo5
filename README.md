@@ -37,6 +37,7 @@ Feedback is provided in terms of heuristic function
 <p> Evaluate the fitness function or Heuristic Function</p>
 <h3>Step-4:</h3>
 <p> Lopp Step -2 and Step-3  until we achieve the score to be Zero to achieve Global Minima.</p>
+
 ## Program:
 ```
 import random
@@ -77,7 +78,6 @@ def SimpleHillClimbing():
 SimpleHillClimbing()
 
 ```
-
 <hr>
 <h2>Sample Input and Output</h2>
 <h2>Sample String:</h2> Artificial Intelligence
@@ -99,3 +99,6 @@ Score: 1  Solution :  Artificial Intelligencf<br>
 Score: 1  Solution :  Artificial Intelligencf<br>
 Score: 1  Solution :  Artificial Intelligencf<br>
 Score: 0  Solution :  Artificial Intelligence<br>
+
+## Result:
+Thus the implementation of simple hill climbing algorithm was done successfully.
